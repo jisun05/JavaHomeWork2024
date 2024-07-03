@@ -1,3 +1,5 @@
+package homework20240629;
+
 import java.util.Scanner;
 
 public class Homework20240629_2 {
