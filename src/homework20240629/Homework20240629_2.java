@@ -1,5 +1,7 @@
-import java.util.InputMismatchException;
 package homework20240629;
+
+import java.util.InputMismatchException;
+
 
 import java.util.Scanner;
 
