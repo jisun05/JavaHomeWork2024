@@ -7,7 +7,7 @@ public class Main {
         System.out.println("test start");
         Tree tree1 = new Tree(3);
 
-        System.out.println(tree1.toString());
+        System.out.println(tree1);
         System.out.println("test fin");
     }
 }
